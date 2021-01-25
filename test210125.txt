@@ -32,15 +32,13 @@ li ul li ul li{
 <li>テストリスト
 </li>
 </ul>
-	 <script type="module" src="https://unpkg.com/@google/model-viewer@0.3.1/dist/model-viewer.js"></script>
-    <model-viewer src="asset/Hokusai210125.glb" ios-src="asset/Hokusai10.usdz"　ar style="width:600px;height:600px;"></model-viewer><br>
-
+	
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 <script nomodule src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"></script>
  
 <!-- 3Dモデルを読み込む。"exposure"は露出の制御、明るさが変わる。"auto-rotate"は自動的に回転表示。poster="hoge.png"は、3Dが読み込まれるまで、画像のhoge.pngを表示する設定-->
 
-<model-viewer id="reveal" loading="eager" camera-controls auto-rotate poster="hoge.png" src="asset/Hokusai210125.glb"  ios-src="asset/Hokusai10.usdz" exposure="0.6" alt="BigBook"></model-viewer>
+<model-viewer id="reveal" loading="eager" camera-controls auto-rotate poster="hoge.png" src="asset/STM210125.glb"  ios-src="asset/Hokusai10.usdz" exposure="0.6" alt="art" ar style="width:600px;height:600px;"></model-viewer>
 
 </body>
 

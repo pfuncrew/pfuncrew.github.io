@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+
+body {
+    font-family: Verdana;
+    font-size: small;
+}
+li {
+    color: blue;
+    font-weight: bold;
+    font-size: 18;
+}
+li ul li {
+    color: green;
+    font-weight: normal;
+}
+li ul li ul li {
+    color: black;
+}
+h1 {
+    font-weight: bold;
+    font-size: 16;
+    font-family: 'Stick', sans-serif;
+}
+h2 {
+    color: blue;
+    font-weight: bold;
+    font-size: 12;
+}
+h3 {
+    color: green;
+    font-weight: bold;
+    font-size: 12;
+}

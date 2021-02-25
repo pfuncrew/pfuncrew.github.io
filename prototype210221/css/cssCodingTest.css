@@ -16,7 +16,7 @@ body {
 	background-image:url("../images/pass13.svg");
 		background-repeat: no-repeat;
 	background-size:contain;
-	background-attachment
+	background-attachment:fixed;
 }
 
 .round {

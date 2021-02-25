@@ -13,6 +13,9 @@ opacity: 0.5;
 body {
     font-family: Verdana;
     font-size: small;
+	background-image:url("../images/pass13.svg");
+		background-repeat: no-repeat;
+	background-size:contain;
 }
 
 .round {
@@ -74,8 +77,28 @@ opacity: 1;
 }
 
 .wrap-video .text p{
-  font-size:20px;
   font-weight:bold;
   color:white;
 	font-size: 4vw;
+}
+.bg2{
+	b
+}
+
+.parallax {
+    min-height: 400px;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;    
+}
+.content {
+    padding: 100px;
+    background-color: #D4D9A9;
+}
+.parallax.bg-01 {
+    background-image: url("../images/2021-02-21 12.54.43.png");
+}
+.parallax.bg-02 {
+    background-image: url(../images/20191213213050.png);
 }

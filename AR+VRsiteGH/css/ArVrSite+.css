@@ -5,7 +5,19 @@ body {
     font-size: small;
 }
 
-.wrap-video{
+.img-sp {
+    display: none;
+}
+
+@media screen and (max-width:560px) {
+    .img-pc {
+        display: none;
+    }
+
+    .img-sp {
+        display: block;
+    }
+}.wrap-video{
   position:relative;
 }
 
@@ -24,7 +36,6 @@ body {
 }
 
 .wrap-video .text p{
-  
   font-weight:bold;
   color:white;
 	text-shadow: 1px 2px 3px #2A2A2A;

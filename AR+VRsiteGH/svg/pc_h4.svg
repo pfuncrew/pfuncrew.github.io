@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="698" height="142" viewBox="0 0 698 142">
+  <defs>
+    <filter id="日本写真印刷コミュニケーションズの_AR_VRソリューション" x="0" y="0" width="698" height="142" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.388"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="pc_h4" transform="translate(9 6)">
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#日本写真印刷コミュニケーションズの_AR_VRソリューション)">
+      <text id="日本写真印刷コミュニケーションズの_AR_VRソリューション-2" data-name="日本写真印刷コミュニケーションズの
+AR・VRソリューション" transform="translate(349 48)" fill="#fff" font-size="40" font-family="Meiryo"><tspan x="-340" y="0">日本写真印刷コミュニケーションズの</tspan><tspan x="-214.512" y="64">AR・VRソリューション</tspan></text>
+    </g>
+  </g>
+</svg>

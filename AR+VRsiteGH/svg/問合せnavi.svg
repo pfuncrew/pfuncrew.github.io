@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="503" height="85" viewBox="0 0 503 85">
+  <defs>
+    <filter id="長方形_4" x="0" y="0" width="503" height="85" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.812"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="問合せnavi" transform="translate(9 6)">
+    <g id="グループ_38" data-name="グループ 38">
+      <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#長方形_4)">
+        <g id="長方形_4-2" data-name="長方形 4" transform="translate(9 6)" fill="#fff" stroke="#707070" stroke-width="1">
+          <rect width="485" height="67" rx="18" stroke="none"/>
+          <rect x="0.5" y="0.5" width="484" height="66" rx="17.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <text id="お問い合わせ" transform="translate(243 44)" font-size="28" font-family="HiraginoSans-W6, Hiragino Sans"><tspan x="-84" y="0">お問い合わせ</tspan></text>
+  </g>
+</svg>

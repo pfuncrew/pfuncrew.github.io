@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="370" height="282" viewBox="0 0 370 282">
+  <defs>
+    <filter id="長方形_188" x="0" y="0" width="370" height="282" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="コンポーネント_53_4_ホバーステート_" data-name="コンポーネント 53 – 4 (ホバーステート)" transform="translate(9 3)">
+    <g transform="matrix(1, 0, 0, 1, -9, -3)" filter="url(#長方形_188)">
+      <rect id="長方形_188-2" data-name="長方形 188" width="352" height="264" rx="23" transform="translate(9 3)" fill="#fff"/>
+    </g>
+    <text id="説明テキスト説明テキスト説明テキスト説明テキスト説明テキスト説明テキスト説明テキスト" transform="translate(13 87)" font-size="19" font-family="Meiryo"><tspan x="2.5" y="20">説明テキスト説明テキスト説明テキス</tspan><tspan x="2.5" y="48">ト説明テキスト説明テキスト説明テキ</tspan><tspan x="88" y="76">スト説明テキスト</tspan></text>
+  </g>
+</svg>
